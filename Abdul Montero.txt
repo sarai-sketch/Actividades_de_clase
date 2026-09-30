@@ -1,1 +1,3 @@
 Hola Abdul!
+INSPECT & COMPARE
+Examining logs, diffs and object information
