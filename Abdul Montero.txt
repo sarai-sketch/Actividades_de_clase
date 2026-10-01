@@ -1,3 +1,4 @@
 Hola Abdul!
-hola pochi
-Windows!!!!!
+
+INSPECT & COMPARE
+Examining logs, diffs and object information
