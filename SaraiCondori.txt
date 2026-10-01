@@ -1,5 +1,2 @@
 Hello world
-INSPECT & COMPARE
-Examining logs, diffs and object information
 
-archivo de texto editado por SMP el 01/10/2026
